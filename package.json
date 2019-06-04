@@ -1,0 +1,25 @@
+{
+  "name": "material-icons-generator",
+  "version": "1.0.0",
+  "description": "Generate material design icon React compatible SVGs",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhasv1995/material-icons-generator.git"
+  },
+  "author": "Suhas V <suhasv1995@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhasv1995/material-icons-generator/issues"
+  },
+  "homepage": "https://github.com/suhasv1995/material-icons-generator#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "isomorphic-fetch": "^2.2.1",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {}
+}
