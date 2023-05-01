@@ -18,7 +18,7 @@
   "homepage": "https://github.com/suhasv1995/material-icons-generator#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "xml2js": "^0.4.19"
   },
   "devDependencies": {}
